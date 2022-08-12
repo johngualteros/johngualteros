@@ -26,8 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johngualteros&" alt="johngualteros" /></p>
 
-<a href="http://www.github.com/johngualteros"><img src="https://activity-graph.herokuapp.com/graph?username=John-Gualteros&bg_color=transparent&color=ffffff&line=FF5B00&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://[www.github.com/johngualteros](https://github.com/johngualteros)"><img src="https://activity-graph.herokuapp.com/graph?username=johngualteros&bg_color=transparent&color=ffffff&line=FF5B00&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
   
-![Snake animation](https://github.com/johngualteros/johngualteros/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/johngualteros/blob/output/github-contribution-grid-snake.svg)
 
