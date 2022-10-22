@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/johngualteros](https://github.com/johngualteros)
 
-- 📝 My web portofolio !!! [htttps://cuando-lo-termine.com](htttps://cuando-lo-termine.com)
+- 📝 My web portofolio !!! [My Website](https://johngualteroswebsite.vercel.app/website)
 
 - 📫 How to reach me **gualterosjohn40@gmail.com**
 
