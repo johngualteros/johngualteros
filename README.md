@@ -30,7 +30,3 @@
 </div> 
 
 <a href="http://[www.github.com/johngualteros](https://github.com/johngualteros)"><img src="https://activity-graph.herokuapp.com/graph?username=johngualteros&bg_color=transparent&color=ffffff&line=008BFF&point=ffffff&area_color=fff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
