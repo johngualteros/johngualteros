@@ -30,7 +30,5 @@
   <a href="http://www.github.com/johngualteros"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=johngualteros&stroke=B4FF9F&background=0D1117&ring=008BFF&fire=FF5F00&currStreakNum=008BFF&currStreakLabel=008BFF&sideNums=008BFF&sideLabels=73777B&dates=73777B&hide_border=true" /></a>
 </div> 
 
-<a href="http://[www.github.com/johngualteros](https://github.com/johngualteros)"><img src="https://activity-graph.herokuapp.com/graph?username=johngualteros&bg_color=transparent&color=ffffff&line=008BFF&point=ffffff&area_color=fff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gualterosjohn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gualterosjohn" /></a></p><br><br>
