@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/johngualteros](https://github.com/johngualteros)
 
-- 📝 My web portofolio !!! [My Website](john-website-pi.vercel.app)
+- 📝 My web portofolio !!! [My Website](https://john-website-pi.vercel.app)
 
 - 📫 How to reach me **gualterosjohn40@gmail.com**
 
