@@ -10,8 +10,7 @@
 
 - 📝 My web portofolio !!! [My Website](https://john-website-pi.vercel.app)
 
-- 📫 How to reach me **gualterosjohn40@gmail.com**//*[@id="code-editor"]/div[4]/pre/span
- //*[@id="code-editor"]/div[4]/pre/span/text()[2]
+- 📫 How to reach me **gualterosjohn40@gmail.com**
 - ⚡ Fun fact **autodidact**
 
 <h3 align="left">Connect with me:</h3>
