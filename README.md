@@ -1,7 +1,8 @@
+<h6 align="center">Random number all days {1}</h6>
 <h1 align="center">Hi 👋, I'm John Alejandro Gualteros Garcia</h1>
 <h3 align="center">I am a passionate person in programming who seeks to continue learning every day</h3>
 <h5 align="center">I really liked this profetion</h5>
-<h6 align="center">Random number all days {1}</h6>
+
 
 - 🌱 I’m currently learning **news things and creatives**
 
@@ -9,8 +10,8 @@
 
 - 📝 My web portofolio !!! [My Website](https://john-website-pi.vercel.app)
 
-- 📫 How to reach me **gualterosjohn40@gmail.com**
-
+- 📫 How to reach me **gualterosjohn40@gmail.com**//*[@id="code-editor"]/div[4]/pre/span
+ //*[@id="code-editor"]/div[4]/pre/span/text()[2]
 - ⚡ Fun fact **autodidact**
 
 <h3 align="left">Connect with me:</h3>
