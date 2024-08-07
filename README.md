@@ -32,5 +32,13 @@
   <a href="http://www.github.com/johngualteros"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=johngualteros&stroke=B4FF9F&background=0D1117&ring=008BFF&fire=FF5F00&currStreakNum=008BFF&currStreakLabel=008BFF&sideNums=008BFF&sideLabels=73777B&dates=73777B&hide_border=true" /></a>
 </div> 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gualterosjohn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gualterosjohn" /></a></p><br><br>
+<h2 align="left" id="joffcom-contact">📊 Stats</h2>
+
+<a href="#joffcom-title">
+  <img src="https://raw.githubusercontent.com/johngualteros/github-stats-transparent/output/generated/overview.svg" alt="joffcom" />
+</a>
+<a href="#joffcom-title">
+  <img src="https://raw.githubusercontent.com/johngualteros/github-stats-transparent/output/generated/languages.svg" alt="joffcom" />
+</a>
+
+
